@@ -26,7 +26,8 @@ class ClientPrefs {
 	public static var ghostTapping:Bool = true;
 	public static var hideTime:Bool = false;
 	public static var vramSprites:Bool = true;
-
+	public static var cacheOnGPU:Bool = false;
+   
 	public static var filtro85:Bool = true;
 	public static var pauseStart:Bool = false;
 	public static var noVirtual:Bool = true;
@@ -136,6 +137,7 @@ class ClientPrefs {
 		FlxG.save.data.worlds = worlds;
 		FlxG.save.data.worldsALT = worldsALT;
 		FlxG.save.data.vramSprites = vramSprites;
+		FlxG.save.data.cacheOnGPU = cacheOnGPU;
 
 		FlxG.save.flush();
 
@@ -226,6 +228,9 @@ class ClientPrefs {
 		}
 		if (FlxG.save.data.vramSprites != null) {
 			vramSprites = FlxG.save.data.vramSprites;
+		}
+		if(FlxG.save.data.cacheOnGPU != null) {
+			cacheOnGPU = FlxG.save.data.cacheOnGPU;
 		}
 		if (FlxG.save.data.storySave != null) {
 			storySave = FlxG.save.data.storySave;
