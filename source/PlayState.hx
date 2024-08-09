@@ -886,16 +886,6 @@ class PlayState extends MusicBeatState
 
 		if (curStage == 'piracy')
 		{
-			Lib.application.window.resizable = false;
-			if(ogwinX == 0){
-				ogwinX = Lib.application.window.x;
-				ogwinY = Lib.application.window.y;
-			}
-			var win = Lib.application.window; // just to make this following line shorter
-			win.move(win.x + Std.int((win.width - 512) / 2), win.y + Std.int((win.height - 768) / 2));
-			win.resize(512, 768);
-			Lib.current.x = 0;
-			Lib.current.y = 0;
 			Lib.current.scaleX = 2.665;
 			Lib.current.scaleY = 2.665;
 
@@ -913,28 +903,8 @@ class PlayState extends MusicBeatState
 
 		if (curStage == 'somari')
 		{
-			Lib.application.window.fullscreen = false;
-			Lib.application.window.resizable = false;
-
-			if (Lib.application.window.maximized == false)
-			{
-				if (Lib.application.window.width == 1280 && Lib.application.window.height == 720)
-				{
-					Lib.application.window.move(winx + 240, winy + 60);
-				}
-			}
-			else
-			{
-				Lib.application.window.maximized = false;
-				Lib.application.window.move(560, 240);
-			}
-			Lib.application.window.resize(800, 600);
-
 			stream = 1;
-			Lib.application.window.resizable = false;
 
-			Lib.current.x = 0;
-			Lib.current.y = 0;
 			Lib.current.scaleX = 1.8;
 			Lib.current.scaleY = 1.8;
 			var camarasTODAS:Array<FlxCamera> = [camGame, camHUD, camEst, camOther];
@@ -15801,94 +15771,12 @@ class PlayState extends MusicBeatState
 			return;
 		}
 
-		if (curStage == 'virtual' && ClientPrefs.noVirtual)
-		{
-			switch (curStep)
-			{
-				case 320:
-					startwindow = true;
-					winx = changex - 20;
-					winy = changey + 50;
-				case 324:
-					winx = changex + 20;
-					winy = changey - 50;
-				case 328:
-					winx = changex + 100;
-					winy = changey + 100;
-				case 332:
-					winx = changex + 100;
-					winy = changey - 100;
-					windowTween.push(FlxTween.tween(this, {winx: changex / 4, winy: Std.int(changey / 4)}, 0.2, {startDelay: 0.2, ease: FlxEase.backIn}));
-
-				case 336:
-					for (tween in windowTween)
-					{
-						tween.cancel();
-					}
-					winx = Std.int(changex / 4);
-					winy = Std.int(changey / 4);
-
-					windowTween.push(FlxTween.tween(this, {winy: Std.int(changey + (changex / 4))}, 3, {ease: FlxEase.quadInOut, type: PINGPONG}));
-					windowTween.push(FlxTween.tween(this, {winx: Std.int(changex + (changex / 2))}, 5, {ease: FlxEase.quadInOut, type: PINGPONG}));
-				case 384:
-					for (tween in windowTween)
-						{
-							tween.percent += 0.20;
-							eventTimers.push(new FlxTimer().start(0.1, function(tmr:FlxTimer)
-								{
-									tween.active = false;
-								}));
-
-						}
-				case 392:
-					for (tween in windowTween)
-						{
-							tween.active = true;
-							tween.percent += 0.20;
-							eventTimers.push(new FlxTimer().start(0.1, function(tmr:FlxTimer)
-								{
-									tween.active = false;
-								}));
-						}
-				case 400:
-					for (tween in windowTween)
-						{
-							tween.percent += 0.20;
-							tween.active = true;
-						}
-				case 448:
-					for (tween in windowTween)
-					{
-						tween.cancel();
-					}
-					windowTween.push(FlxTween.tween(this, {winy: changey}, 0.5, {ease: FlxEase.expoOut}));
-					windowTween.push(FlxTween.tween(this, {winx: changex}, 0.5, {ease: FlxEase.expoOut}));
-
-					windowTween.push(FlxTween.tween(this, {winy: changey + 50}, 5, {startDelay: 0.5, ease: FlxEase.cubeInOut, type: PINGPONG}));
-
-				case 576:
-					//startwindow = false;
-					windowTween.push(FlxTween.tween(this, {winx: changex + 50}, 3, {ease: FlxEase.cubeInOut, type: PINGPONG}));
-
-				case 935:
-						for (tween in windowTween)
-							{
-								tween.cancel();
-							}
-						windowTween.push(FlxTween.tween(this, {winx: ogwinX}, 0.5, {ease: FlxEase.cubeInOut}));
-						windowTween.push(FlxTween.tween(this, {winy: ogwinY}, 0.5, {ease: FlxEase.cubeInOut}));
-						eventTimers.push(new FlxTimer().start(0.5, function(tmr:FlxTimer)
-							{
-								startwindow = false;
-							}));
-
 				case 1008:
 					timeBarBG.visible = false;
 					timeBar.visible = false;
 					timeTxt.visible = false;
 					scoreTxt.visible = false;
-		}
-
+        
 		if (curStage == 'luigiout')
 		{
 			if (curStep % 2 == 0 && curStep % 4 != 0)
