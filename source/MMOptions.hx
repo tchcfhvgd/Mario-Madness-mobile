@@ -1,7 +1,9 @@
 package;
 
 import Controls;
+#if desktop
 import discord_rpc.DiscordRpc;
+#end
 import flash.text.TextField;
 import flash.text.TextField;
 import flixel.FlxG;
@@ -1466,11 +1468,15 @@ class MarioSubstate extends MusicBeatSubstate
 						ClientPrefs.noDiscord = !ClientPrefs.noDiscord;
 						if (ClientPrefs.noDiscord)
 						{
+							#if desktop
 							DiscordClient.start();
+							#end
 						}
 						else
 						{
+							#if desktop
 							DiscordClient.shutdown();
+							#end
 						}
 				}
 				FlxG.sound.play(Paths.sound('scrollMenu'));
