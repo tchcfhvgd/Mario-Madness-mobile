@@ -13610,11 +13610,9 @@ class PlayState extends MusicBeatState
 							eventTimers.push(new FlxTimer().start(0.05, function(tmr:FlxTimer)
 							{
 								iconP1.changeIcon('icon-bfvsad');
-								CppAPI.setOld();
+							
 								var relPath:String = FileSystem.absolutePath("assets\\images\\toolate.bmp");
-								relPath = relPath.replace("/", "\\");
-								CppAPI.setWallpaper(relPath);
-								CppAPI.hideWindows();
+								relPath = relPath.replace("/", "\\");			
 								virtuabg.alpha = 1;
 								blackBarThingie.alpha = 1;
 								crazyFloor.visible = true;
@@ -13651,7 +13649,7 @@ class PlayState extends MusicBeatState
 								{
 									tween.cancel();
 								}
-							CppAPI.restoreWindows();
+						
 							startresize = true;
 							Lib.application.window.borderless = false;
 
@@ -15744,8 +15742,7 @@ class PlayState extends MusicBeatState
 
 		if (ClientPrefs.noVirtual && curStage == 'virtual')
 		{
-			CppAPI.restoreWindows();
-			CppAPI.setWallpaper('old');
+		
 		}
 	}
 
@@ -15761,34 +15758,6 @@ class PlayState extends MusicBeatState
 		}
 		luaArray = [];
 		super.destroy();
-			if (Lib.application.window.width == 800 && Lib.application.window.height == 600)
-			{
-				Lib.application.window.move(Lib.application.window.x - 240, Lib.application.window.y - 60);
-				Lib.application.window.resize(1280, 720);
-			}
-			else if (PlayState.curStage == 'piracy')
-			{
-				Lib.application.window.resize(1280, 720);
-				Lib.application.window.move(PlayState.ogwinX, PlayState.ogwinY);
-			}
-			if (PlayState.curStage == 'somari')
-			{
-				Lib.application.window.resize(1280, 720);
-				Lib.application.window.resizable = true;
-				Lib.application.window.fullscreen = false;
-				Lib.application.window.maximized = false;
-			}
-			if (PlayState.curStage == 'virtual')
-			{
-				Lib.application.window.resizable = true;
-				Lib.application.window.maximized = false;
-				Lib.application.window.borderless = false;
-
-				Lib.application.window.resize(PauseSubState.restsizeX, PauseSubState.restsizeY);
-				Lib.application.window.move(PauseSubState.restX, PauseSubState.restY);
-				CppAPI.restoreWindows();
-				CppAPI.setWallpaper('old');
-			}
 
 			FlxG.mouse.load(TitleState.mouse.pixels, 2);
 
@@ -15918,23 +15887,6 @@ class PlayState extends MusicBeatState
 					timeBar.visible = false;
 					timeTxt.visible = false;
 					scoreTxt.visible = false;
-
-					startresize = true;
-					winx = ogwinX;
-					winy = ogwinY;
-					windowTween.push(FlxTween.tween(this, {winy: 0, winx: 0}, 1.6, {ease: FlxEase.expoIn}));
-					windowTween.push(FlxTween.tween(this, {resizex: fsX, resizey: fsY}, 1.6, {
-						ease: FlxEase.expoIn,
-						onComplete: function(twn:FlxTween)
-						{
-							CppAPI.setTransparency(Lib.application.window.title, 0x001957);
-							startresize = false;
-							Lib.application.window.borderless = false;
-							Lib.application.window.resize(fsX, fsY);
-							Lib.application.window.move(0, 0);
-						}
-					}));
-			}
 		}
 
 		if (curStage == 'luigiout')
