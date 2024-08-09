@@ -11,20 +11,18 @@ import openfl.display.FPS;
 import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.system.System;
-#if cpp
 import cpp.vm.Gc;
-#elseif hl
-import hl.Gc;
-#elseif java
-import java.vm.Gc;
-#elseif neko
-import neko.vm.Gc;
+import haxe.io.Path;
+
+#if android
+import android.content.Context;
+import android.os.Build;
 #end
 
 class Main extends Sprite {
 	public static var initialState:Class<FlxState> = TitleState; // The FlxState the game starts with.
-	public static var gameWidth:Int = initialState == TitleState ? 921 : 1280; // Width of the game in pixels (might be less / more in actual pixels depending on your zoom).
-	public static var gameHeight:Int = initialState == TitleState ? 691 : 720; // Height of the game in pixels (might be less / more in actual pixels depending on your zoom).
+	public static var gameWidth:Int = 1280; // Width of the game in pixels (might be less / more in actual pixels depending on your zoom).
+	public static var gameHeight:Int = 720; // Height of the game in pixels (might be less / more in actual pixels depending on your zoom).
 	var zoom:Float = -1; // If -1, zoom is automatically calculated to fit the window dimensions.
 	var framerate:Int = 60; // How many frames per second the game should run at.
 	var skipSplash:Bool = true; // Whether to skip the flixel splash screen that appears in release mode.
@@ -37,11 +35,22 @@ class Main extends Sprite {
 
 	public static function main():Void {
 		Lib.current.addChild(new Main());
+		#if cpp
+		cpp.NativeGc.enable(true);
+		#elseif hl
+		hl.Gc.enable(true);
+		#end
 	}
 
 	public function new() {
 		super();
 
+		#if android
+		Sys.setCwd(Path.addTrailingSlash(Context.getExternalFilesDir()));
+		#elseif ios
+		Sys.setCwd(System.documentsDirectory);
+		#end
+		
 		if (stage != null) {
 			init();
 		}
@@ -59,19 +68,19 @@ class Main extends Sprite {
 	}
 
 	public function setupGame():Void {
-		Lib.application.window.onClose.add(PlayState.onWinClose);
+		//Lib.application.window.onClose.add(PlayState.onWinClose);
 
 		#if !debug
 		initialState = TitleState;
 		#end
 		FlxTransitionableState.skipNextTransOut = true;
-		#if !mobile
+		
 		fpsVar = new FPS(10, 4, 0xFFFFFF);
 
 		if (fpsVar != null) {
 			fpsVar.visible = false;
 		}
-		#end
+		
 		addChild(new FlxGame(gameWidth, gameHeight, initialState, framerate, framerate, skipSplash, startFullscreen));
 
 		FlxG.signals.preStateSwitch.add(function () {
@@ -87,11 +96,14 @@ class Main extends Sprite {
 			Main.skipNextDump = false;
 		});
 
-		#if !mobile
 		addChild(fpsVar);
-		#end
+		
 		#if html5
 		FlxG.autoPause = false;
+		#end
+
+		#if android
+		FlxG.android.preventDefaultKeys = [BACK];
 		#end
 
 		FlxG.signals.gameResized.add(onResizeGame);
@@ -124,14 +136,8 @@ class Main extends Sprite {
 	}
 
 	public static function clearMajor() {
-		#if cpp
-		Gc.run(true);
+		//Gc.run(true);
 		Gc.compact();
-		#elseif hl
-		Gc.major();
-		#elseif (java || neko)
-		Gc.run(true);
-		#end
 	}
 }
 
