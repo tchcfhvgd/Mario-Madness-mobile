@@ -15771,11 +15771,14 @@ class PlayState extends MusicBeatState
 			return;
 		}
 
+		if (curStage == 'virtual' && ClientPrefs.noVirtual)
+		{
 				case 1008:
 					timeBarBG.visible = false;
 					timeBar.visible = false;
 					timeTxt.visible = false;
 					scoreTxt.visible = false;
+		}
         
 		if (curStage == 'luigiout')
 		{
