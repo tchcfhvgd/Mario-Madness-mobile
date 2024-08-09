@@ -53,10 +53,10 @@ jobs:
           haxelib git hxcpp https://github.com/mcagabe19-stuff/hxcpp.git
           haxelib git lime https://github.com/mcagabe19-stuff/lime
           haxelib install openfl 9.2.0
-          haxelib install flixel 5.3.1
+          haxelib install flixel 5.5.0
           haxelib install flixel-tools
           haxelib install flixel-ui
-          haxelib install flixel-addons 3.1.1
+          haxelib install flixel-addons 3.2.1
           haxelib install tjson
           haxelib install hxCodec 2.6.1
           haxelib install hxjsonast
