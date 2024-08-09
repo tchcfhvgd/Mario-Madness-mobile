@@ -15773,11 +15773,14 @@ class PlayState extends MusicBeatState
 
 		if (curStage == 'virtual' && ClientPrefs.noVirtual)
 		{
+			switch (curStep)
+				{
 				case 1008:
 					timeBarBG.visible = false;
 					timeBar.visible = false;
 					timeTxt.visible = false;
 					scoreTxt.visible = false;
+		        }
 		}
         
 		if (curStage == 'luigiout')
