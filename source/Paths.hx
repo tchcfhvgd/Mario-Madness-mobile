@@ -282,33 +282,36 @@ class Paths
 		return false;
 	}
 
-        inline static public function getSparrowAtlas(key:String, ?library:String = null, ?allowGPU:Bool = true):FlxAtlasFrames
+        inline static public function getSparrowAtlas(key:String, ?library:String):FlxAtlasFrames
 	{
-		var imageLoaded:FlxGraphic = image(key, library, allowGPU);
 		#if MODS_ALLOWED
+		// var imageLoaded:FlxGraphic = returnGraphic(key); //Defautl precache
+		var imageLoaded:FlxGraphic = image(key); //Precache with GPU Support
 		var xmlExists:Bool = false;
+		if(FileSystem.exists(modsXml(key))) {
+			xmlExists = true;
+		}
 
-		var xml:String = modsXml(key);
-		if(FileSystem.exists(xml)) xmlExists = true;
-
-		return FlxAtlasFrames.fromSparrow(imageLoaded, (xmlExists ? File.getContent(xml) : getPath('images/$key.xml', library)));
+		return FlxAtlasFrames.fromSparrow((imageLoaded != null ? imageLoaded : image(key, library)), (xmlExists ? File.getContent(modsXml(key)) : file('images/$key.xml', library)));
 		#else
-		return FlxAtlasFrames.fromSparrow(imageLoaded, getPath('images/$key.xml', library));
+		return FlxAtlasFrames.fromSparrow(image(key, library), file('images/$key.xml', library));
 		#end
 	}
 
-	inline static public function getPackerAtlas(key:String, ?library:String = null, ?allowGPU:Bool = true):FlxAtlasFrames
-	{
-		var imageLoaded:FlxGraphic = image(key, library, allowGPU);
-		#if MODS_ALLOWED
-		var txtExists:Bool = false;
-		
-		var txt:String = modsTxt(key);
-		if(FileSystem.exists(txt)) txtExists = true;
 
-		return FlxAtlasFrames.fromSpriteSheetPacker(imageLoaded, (txtExists ? File.getContent(txt) : getPath('images/$key.txt', library)));
+	inline static public function getPackerAtlas(key:String, ?library:String)
+	{
+		#if MODS_ALLOWED
+		// var imageLoaded:FlxGraphic = returnGraphic(key); //Defautl precache
+		var imageLoaded:FlxGraphic = image(key); //Precache with GPU Support
+		var txtExists:Bool = false;
+		if(FileSystem.exists(modsTxt(key))) {
+			txtExists = true;
+		}
+
+		return FlxAtlasFrames.fromSpriteSheetPacker((imageLoaded != null ? imageLoaded : image(key, library)), (txtExists ? File.getContent(modsTxt(key)) : file('images/$key.txt', library)));
 		#else
-		return FlxAtlasFrames.fromSpriteSheetPacker(imageLoaded, getPath('images/$key.txt', library));
+		return FlxAtlasFrames.fromSpriteSheetPacker(image(key, library), file('images/$key.txt', library));
 		#end
 	}
 	
