@@ -208,11 +208,6 @@ class ChartingState extends MusicBeatState
 			Lib.current.scaleX = 1;
 			Lib.current.scaleY = 1;
 
-			if(PlayState.curStage == 'virtual'){
-				Lib.application.window.resize(1280, 720);
-				CppAPI.setWallpaper('old');
-			}
-
 		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		bg.scrollFactor.set();
 		bg.color = 0xFF222222;
