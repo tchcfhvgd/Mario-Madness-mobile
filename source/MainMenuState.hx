@@ -144,25 +144,6 @@ class MainMenuState extends MusicBeatState {
 			Main.fpsVar.visible = ClientPrefs.showFPS;
 		}
 
-		if(PlayState.curStage == 'piracy'){
-			PlayState.curStage = '';
-			Lib.current.scaleX = 1;
-			Lib.current.scaleY = 1;
-			if(PlayState.ogwinX == 0){
-			PlayState.ogwinX = Lib.application.window.x;
-			PlayState.ogwinY = Lib.application.window.y;
-			}
-			var win = Lib.application.window;
-			win.move(PlayState.ogwinX, PlayState.ogwinY);
-			FlxG.resizeWindow(1280, 720);
-			FlxG.resizeGame(1280, 720);
-			Lib.current.x = 0;
-			Lib.current.y = 0;
-			win.resizable = true;
-		}
-		
-		Lib.application.window.resizable = lime._internal.backend.native.NativeApplication.fullscreenable = true;
-
 		if(FlxG.sound.music == null){
 			FlxG.sound.playMusic(Paths.music('freakyMenu'));
 		}else{
@@ -603,7 +584,7 @@ class MainMenuState extends MusicBeatState {
 			}
 			#end
 
-			#if debug
+
 			if (FlxG.keys.justPressed.FOUR) {
 				ClientPrefs.worlds = [3, 7, 5, 6, 3];
 				ClientPrefs.worldsALT = [0, 2, 0, 3, 0];
@@ -617,7 +598,7 @@ class MainMenuState extends MusicBeatState {
 				ClientPrefs.storySave = [for(i in 0... 10) false];
 				ClientPrefs.saveSettings();
 			}
-			#end
+		
 		}
 
 		Mouse.cursor = WEHOVERING ? BUTTON : ARROW;
@@ -1070,24 +1051,16 @@ class MainMenuState extends MusicBeatState {
 									foundFile = true;
 
 								if (foundFile) {
-									Lib.application.window.title = "*  You look inside the drawer and find a old vhs of a dance you used to do in highschool. *  Did this ever exist? When did you take this video?";
-									Lib.application.window.resizable = false;
-									FlxG.resizeWindow(1280, 720);
-
+					
 									FlxG.sound.volume = 1;
 									FlxG.sound.soundTray.visual = false;
 									FlxG.sound.soundTray.show(true);
 
 									// Am I Evil??? (i do not care about streamer mode)
-									CppAPI.removeWindowIcon();
-									FlxG.fullscreen = FlxG.autoPause = false;
-									Lib.application.window.onClose.add(function () {
-										Lib.application.window.onClose.cancel();
-									});
+					
 									
 									(new FlxVideo(fileName)).finishCallback = function() {Sys.exit(0);}
 									(new FlxTimer()).start(52, function (tmr:FlxTimer) {
-										CppAPI._setWindowLayered();
 					
 										var numTween:NumTween = FlxTween.num(1, 0, 3, {
 											onComplete: function(twn:FlxTween) {
