@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigi_IHY_Assets_New3.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Luigi Falling0000" x="860" y="0" width="780" height="959" frameX="-20" frameY="2" frameWidth="856" frameHeight="987"/>
+	<SubTexture name="Luigi Falling0001" x="860" y="0" width="780" height="959" frameX="-20" frameY="2" frameWidth="856" frameHeight="987"/>
+	<SubTexture name="Luigi Falling0002" x="0" y="0" width="860" height="937" frameX="2" frameY="1" frameWidth="856" frameHeight="987"/>
+	<SubTexture name="Luigi Falling0003" x="0" y="0" width="860" height="937" frameX="2" frameY="1" frameWidth="856" frameHeight="987"/>
+	<SubTexture name="Luigi Falling0004" x="0" y="937" width="762" height="990" frameX="-23" frameY="1" frameWidth="856" frameHeight="987"/>
+	<SubTexture name="Luigi Falling0005" x="0" y="937" width="762" height="990" frameX="-23" frameY="1" frameWidth="856" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0000" x="860" y="959" width="516" height="941" frameX="-4" frameY="2" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0001" x="860" y="959" width="516" height="941" frameX="-4" frameY="2" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0002" x="860" y="959" width="516" height="941" frameX="-4" frameY="2" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0003" x="860" y="959" width="516" height="941" frameX="-4" frameY="2" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0004" x="1640" y="0" width="515" height="936" frameX="-5" frameY="-3" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0005" x="1640" y="0" width="515" height="936" frameX="-5" frameY="-3" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0006" x="1640" y="0" width="515" height="936" frameX="-5" frameY="-3" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0007" x="2155" y="0" width="518" height="925" frameX="-7" frameY="-14" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0008" x="2155" y="0" width="518" height="925" frameX="-7" frameY="-14" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0009" x="2673" y="0" width="532" height="873" frameX="-7" frameY="-66" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0010" x="2673" y="0" width="532" height="873" frameX="-7" frameY="-66" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0011" x="0" y="1927" width="535" height="852" frameX="-15" frameY="-87" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0012" x="1790" y="1927" width="639" height="612" frameX="2" frameY="-377" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0013" x="3205" y="0" width="628" height="613" frameX="-6" frameY="-374" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0014" x="3205" y="0" width="628" height="613" frameX="-6" frameY="-374" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0015" x="535" y="1927" width="628" height="629" frameX="-7" frameY="-356" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0016" x="535" y="1927" width="628" height="629" frameX="-7" frameY="-356" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0017" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0018" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0019" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0020" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0021" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0022" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0023" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0024" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0025" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0026" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees0027" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Knees Idle0000" x="1163" y="1927" width="627" height="629" frameX="-7" frameY="-355" frameWidth="636" frameHeight="987"/>
+	<SubTexture name="Luigi Lava Hand0000" x="3399" y="1903" width="221" height="375" frameX="-96" frameY="-285" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0001" x="3399" y="1903" width="221" height="375" frameX="-96" frameY="-285" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0002" x="2867" y="1299" width="214" height="382" frameX="-103" frameY="-170" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0003" x="2867" y="1299" width="214" height="382" frameX="-103" frameY="-170" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0004" x="3619" y="613" width="211" height="398" frameX="-93" frameY="-91" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0005" x="3619" y="613" width="211" height="398" frameX="-93" frameY="-91" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0006" x="3595" y="1474" width="200" height="415" frameX="-78" frameY="-51" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0007" x="3595" y="1474" width="200" height="415" frameX="-78" frameY="-51" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0008" x="3205" y="1043" width="199" height="431" frameX="-56" frameY="-21" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0009" x="3205" y="1043" width="199" height="431" frameX="-56" frameY="-21" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0010" x="3412" y="613" width="207" height="429" frameX="-26" frameY="-20" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0011" x="3412" y="613" width="207" height="429" frameX="-26" frameY="-20" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0012" x="3412" y="613" width="207" height="429" frameX="-26" frameY="-20" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0013" x="3205" y="613" width="207" height="430" frameX="-27" frameY="-20" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0014" x="3205" y="613" width="207" height="430" frameX="-27" frameY="-20" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0015" x="3205" y="613" width="207" height="430" frameX="-27" frameY="-20" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0016" x="3404" y="1043" width="196" height="428" frameX="-42" frameY="-25" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0017" x="3404" y="1043" width="196" height="428" frameX="-42" frameY="-25" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0018" x="3400" y="1474" width="195" height="427" frameX="-58" frameY="-28" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0019" x="3400" y="1474" width="195" height="427" frameX="-58" frameY="-28" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0020" x="3591" y="2332" width="194" height="426" frameX="-57" frameY="-29" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0021" x="3591" y="2332" width="194" height="426" frameX="-57" frameY="-29" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0022" x="3205" y="2332" width="193" height="430" frameX="-55" frameY="-25" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0023" x="3205" y="2332" width="193" height="430" frameX="-55" frameY="-25" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0024" x="3398" y="2332" width="193" height="429" frameX="-54" frameY="-26" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0025" x="3398" y="2332" width="193" height="429" frameX="-54" frameY="-26" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0026" x="3205" y="1903" width="194" height="429" frameX="-54" frameY="-26" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0027" x="3205" y="1903" width="194" height="429" frameX="-54" frameY="-26" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0028" x="3205" y="1474" width="195" height="429" frameX="-54" frameY="-26" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0029" x="3205" y="1474" width="195" height="429" frameX="-54" frameY="-26" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0030" x="3600" y="1043" width="196" height="427" frameX="-54" frameY="-28" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0031" x="3600" y="1043" width="196" height="427" frameX="-54" frameY="-28" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0032" x="3600" y="1043" width="196" height="427" frameX="-54" frameY="-28" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0033" x="2673" y="873" width="194" height="426" frameX="-54" frameY="-31" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0034" x="2673" y="873" width="194" height="426" frameX="-54" frameY="-31" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0035" x="2673" y="873" width="194" height="426" frameX="-54" frameY="-31" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0036" x="2673" y="873" width="194" height="426" frameX="-54" frameY="-31" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0037" x="2155" y="925" width="192" height="425" frameX="-54" frameY="-34" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0038" x="2155" y="925" width="192" height="425" frameX="-54" frameY="-34" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0039" x="2155" y="925" width="192" height="425" frameX="-54" frameY="-34" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0040" x="2673" y="1299" width="194" height="424" frameX="-51" frameY="-37" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0041" x="2673" y="1299" width="194" height="424" frameX="-51" frameY="-37" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0042" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0043" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0044" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0045" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0046" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0047" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0048" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0049" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0050" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0051" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0052" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0053" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0054" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0055" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0056" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0057" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0058" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0059" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0060" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0061" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0062" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0063" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0064" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0065" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0066" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0067" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0068" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0069" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0070" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0071" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+	<SubTexture name="Luigi Lava Hand0072" x="2867" y="873" width="195" height="423" frameX="-49" frameY="-46" frameWidth="382" frameHeight="691"/>
+</TextureAtlas>
