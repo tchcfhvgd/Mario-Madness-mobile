@@ -386,11 +386,17 @@ class TitleState extends MusicBeatState {
 							onComplete: (_) -> {
 								FlxG.updateFramerate = 30; // Makes it smoother and consistant
 
+								windowRes = FlxPoint.get(Lib.application.window.width, Lib.application.window.height);
+								windowPos = CoolUtil.getCenterWindowPoint();
 								startTime = Sys.time();
 								
 								windowTwn = FlxTween.tween(windowRes, {x: 1280, y: 720}, 0.3 * 4, {ease: FlxEase.circInOut, onUpdate: (_) -> {
-									
-		
+									FlxG.resizeWindow(Std.int(windowRes.x), Std.int(windowRes.y));
+									CoolUtil.centerWindowOnPoint(windowPos);
+									if ((Sys.time() - startTime) > 1.35) {
+										windowTwn.cancel();
+										completeWindowTwn();
+									}
 								}, onComplete: function(twn:FlxTween)
 									{
 										completeWindowTwn();
@@ -411,6 +417,7 @@ class TitleState extends MusicBeatState {
 
 	function completeWindowTwn(){
 		FlxG.updateFramerate = ClientPrefs.framerate;
+
 		FlxG.mouse.visible = true;
 		MusicBeatState.switchState(new MainMenuState());
 	};
