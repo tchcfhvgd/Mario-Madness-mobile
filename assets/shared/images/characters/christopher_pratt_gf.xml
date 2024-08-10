@@ -1,50 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="christopher_pratt_gf.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="couch gf cringe0000" x="5" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0001" x="5" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0002" x="649" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0003" x="649" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0004" x="1293" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0005" x="1293" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0006" x="1937" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0007" x="1937" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0008" x="2581" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0009" x="2581" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0010" x="3225" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0011" x="3225" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0012" x="3225" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0013" x="3225" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf cringe0014" x="3225" y="5" width="634" height="423"/>
-	<SubTexture name="couch gf dance0000" x="5" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0001" x="649" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0002" x="649" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0003" x="1293" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0004" x="1293" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0005" x="1937" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0006" x="1937" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0007" x="2581" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0008" x="2581" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0009" x="3225" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0010" x="3225" y="438" width="634" height="423"/>
-	<SubTexture name="couch gf dance0011" x="5" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0012" x="5" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0013" x="649" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0014" x="649" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0015" x="1293" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0016" x="1937" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0017" x="1937" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0018" x="2581" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0019" x="2581" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0020" x="3225" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0021" x="3225" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0022" x="5" y="1304" width="634" height="423"/>
-	<SubTexture name="couch gf dance0023" x="5" y="1304" width="634" height="423"/>
-	<SubTexture name="couch gf dance0024" x="649" y="1304" width="634" height="423"/>
-	<SubTexture name="couch gf dance0025" x="649" y="1304" width="634" height="423"/>
-	<SubTexture name="couch gf dance0026" x="1293" y="1304" width="634" height="423"/>
-	<SubTexture name="couch gf dance0027" x="1293" y="1304" width="634" height="423"/>
-	<SubTexture name="couch gf dance0028" x="649" y="871" width="634" height="423"/>
-	<SubTexture name="couch gf dance0029" x="649" y="871" width="634" height="423"/>
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="couch gf cringe0000" x="383" y="573" width="386" height="283" frameX="-8" frameY="-133" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0001" x="383" y="573" width="386" height="283" frameX="-8" frameY="-133" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0002" x="0" y="0" width="388" height="287" frameX="-6" frameY="-129" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0003" x="0" y="0" width="388" height="287" frameX="-6" frameY="-129" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0004" x="388" y="0" width="388" height="286" frameX="-6" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0005" x="388" y="0" width="388" height="286" frameX="-6" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0006" x="0" y="287" width="388" height="286" frameX="-6" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0007" x="0" y="287" width="388" height="286" frameX="-6" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0008" x="776" y="286" width="384" height="286" frameX="-10" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0009" x="776" y="286" width="384" height="286" frameX="-10" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0010" x="776" y="0" width="385" height="286" frameX="-9" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0011" x="776" y="0" width="385" height="286" frameX="-9" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0012" x="776" y="0" width="385" height="286" frameX="-9" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0013" x="776" y="0" width="385" height="286" frameX="-9" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf cringe0014" x="776" y="0" width="385" height="286" frameX="-9" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0000" x="1540" y="0" width="388" height="275" frameX="-6" frameY="-141" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0001" x="1540" y="829" width="388" height="272" frameX="-6" frameY="-144" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0002" x="1540" y="829" width="388" height="272" frameX="-6" frameY="-144" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0003" x="1540" y="555" width="388" height="274" frameX="-6" frameY="-142" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0004" x="1540" y="555" width="388" height="274" frameX="-6" frameY="-142" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0005" x="1150" y="1145" width="388" height="277" frameX="-6" frameY="-139" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0006" x="1150" y="1145" width="388" height="277" frameX="-6" frameY="-139" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0007" x="769" y="573" width="388" height="281" frameX="-6" frameY="-135" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0008" x="769" y="573" width="388" height="281" frameX="-6" frameY="-135" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0009" x="388" y="287" width="388" height="284" frameX="-6" frameY="-132" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0010" x="388" y="287" width="388" height="284" frameX="-6" frameY="-132" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0011" x="0" y="573" width="383" height="286" frameX="-11" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0012" x="0" y="573" width="383" height="286" frameX="-11" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0013" x="0" y="859" width="381" height="286" frameX="-13" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0014" x="0" y="859" width="381" height="286" frameX="-13" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0015" x="1540" y="275" width="380" height="280" frameX="-14" frameY="-136" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0016" x="762" y="1145" width="388" height="277" frameX="-6" frameY="-139" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0017" x="762" y="1145" width="388" height="277" frameX="-6" frameY="-139" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0018" x="761" y="859" width="388" height="280" frameX="-6" frameY="-136" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0019" x="761" y="859" width="388" height="280" frameX="-6" frameY="-136" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0020" x="380" y="1145" width="382" height="283" frameX="-12" frameY="-133" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0021" x="380" y="1145" width="382" height="283" frameX="-12" frameY="-133" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0022" x="0" y="1145" width="380" height="285" frameX="-14" frameY="-131" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0023" x="0" y="1145" width="380" height="285" frameX="-14" frameY="-131" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0024" x="1161" y="0" width="379" height="286" frameX="-15" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0025" x="1161" y="0" width="379" height="286" frameX="-15" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0026" x="381" y="859" width="380" height="286" frameX="-14" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0027" x="381" y="859" width="380" height="286" frameX="-14" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0028" x="0" y="859" width="381" height="286" frameX="-13" frameY="-130" frameWidth="634" frameHeight="423"/>
+	<SubTexture name="couch gf dance0029" x="0" y="859" width="381" height="286" frameX="-13" frameY="-130" frameWidth="634" frameHeight="423"/>
 </TextureAtlas>
