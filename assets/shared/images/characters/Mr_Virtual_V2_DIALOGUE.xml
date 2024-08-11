@@ -1,196 +1,194 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="Mr_Virtual_V2_DIALOGUE.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="VDialogue0000" x="7134" y="2137" width="818" height="1077" pivotX="20.3" pivotY="69.9" frameX="-20" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0001" x="7134" y="2137" width="818" height="1077" frameX="-20" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0002" x="7134" y="2137" width="818" height="1077" frameX="-20" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0003" x="7134" y="3214" width="818" height="1077" frameX="-20" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0004" x="7134" y="3214" width="818" height="1077" frameX="-20" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0005" x="7158" y="1060" width="824" height="1077" frameX="-14" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0006" x="7158" y="1060" width="824" height="1077" frameX="-14" frameY="-69" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0007" x="7128" y="4291" width="823" height="1070" frameX="-15" frameY="-76" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0008" x="7128" y="4291" width="823" height="1070" frameX="-15" frameY="-76" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0009" x="7123" y="5361" width="823" height="1070" frameX="-15" frameY="-76" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0010" x="1657" y="4521" width="822" height="1068" frameX="-16" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0011" x="1657" y="3396" width="822" height="1068" frameX="-16" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0012" x="1657" y="3396" width="822" height="1068" frameX="-16" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0013" x="1647" y="6735" width="823" height="1067" frameX="-15" frameY="-79" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0014" x="1647" y="6735" width="823" height="1067" frameX="-15" frameY="-79" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0015" x="1648" y="5628" width="823" height="1067" frameX="-15" frameY="-79" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0016" x="0" y="5628" width="824" height="1068" frameX="-14" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0017" x="0" y="4521" width="824" height="1068" frameX="-14" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0018" x="0" y="3412" width="824" height="1068" frameX="-14" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0019" x="823" y="6735" width="824" height="1068" frameX="-14" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0020" x="824" y="5628" width="824" height="1068" frameX="-14" frameY="-78" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0021" x="7104" y="6431" width="823" height="1070" frameX="-15" frameY="-76" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0022" x="0" y="6735" width="823" height="1070" frameX="-15" frameY="-76" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0023" x="0" y="6735" width="823" height="1070" frameX="-15" frameY="-76" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0024" x="824" y="4521" width="833" height="1055" frameX="-5" frameY="-91" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0025" x="824" y="3412" width="833" height="1055" frameX="-5" frameY="-91" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0026" x="2479" y="3396" width="832" height="1053" frameX="-6" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0027" x="2479" y="4449" width="832" height="1053" frameX="-6" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0028" x="2479" y="4449" width="832" height="1053" frameX="-6" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0029" x="4128" y="6735" width="828" height="1051" frameX="-10" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0030" x="4128" y="6735" width="828" height="1051" frameX="-10" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0031" x="4129" y="5628" width="828" height="1051" frameX="-10" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0032" x="4957" y="5628" width="827" height="1051" frameX="-11" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0033" x="4957" y="5628" width="827" height="1051" frameX="-11" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0034" x="4956" y="6679" width="827" height="1051" frameX="-11" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0035" x="4956" y="6679" width="827" height="1051" frameX="-11" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0036" x="3300" y="5628" width="829" height="1051" frameX="-9" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0037" x="3311" y="4521" width="829" height="1051" frameX="-9" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0038" x="3311" y="4521" width="829" height="1051" frameX="-9" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0039" x="3311" y="4521" width="829" height="1051" frameX="-9" frameY="-95" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0040" x="2470" y="6735" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0041" x="2470" y="6735" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0042" x="2470" y="6735" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0043" x="2470" y="6735" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0044" x="2470" y="6735" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0045" x="2470" y="6735" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0046" x="2471" y="5628" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0047" x="2471" y="5628" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0048" x="2471" y="5628" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0049" x="2471" y="5628" width="829" height="1053" frameX="-9" frameY="-93" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0050" x="3299" y="6735" width="829" height="1052" frameX="-9" frameY="-94" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0051" x="3299" y="6735" width="829" height="1052" frameX="-9" frameY="-94" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0052" x="3299" y="6735" width="829" height="1052" frameX="-9" frameY="-94" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0053" x="3299" y="6735" width="829" height="1052" frameX="-9" frameY="-94" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0054" x="3299" y="6735" width="829" height="1052" frameX="-9" frameY="-94" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0055" x="7158" y="0" width="841" height="1060" frameX="-6" frameY="-86" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0056" x="7158" y="0" width="841" height="1060" frameX="-6" frameY="-86" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0057" x="7158" y="0" width="841" height="1060" frameX="-6" frameY="-86" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0058" x="7158" y="0" width="841" height="1060" frameX="-6" frameY="-86" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0059" x="5915" y="5625" width="1189" height="1110" frameX="-7" frameY="-36" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0060" x="5915" y="5625" width="1189" height="1110" frameX="-7" frameY="-36" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0061" x="5915" y="5625" width="1189" height="1110" frameX="-7" frameY="-36" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0062" x="4765" y="0" width="1200" height="1125" frameX="-1" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0063" x="4765" y="0" width="1200" height="1125" frameX="-1" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0064" x="4765" y="0" width="1200" height="1125" frameX="-1" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0065" x="5965" y="0" width="1193" height="1125" frameX="-2" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0066" x="5965" y="0" width="1193" height="1125" frameX="-2" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0067" x="5965" y="0" width="1193" height="1125" frameX="-2" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0068" x="4765" y="1125" width="1186" height="1127" frameX="-4" frameY="-19" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0069" x="3576" y="1143" width="1186" height="1127" frameX="-4" frameY="-19" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0070" x="2388" y="1144" width="1186" height="1127" frameX="-4" frameY="-19" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0071" x="3553" y="3395" width="1181" height="1126" frameX="-5" frameY="-20" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0072" x="3553" y="3395" width="1181" height="1126" frameX="-5" frameY="-20" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0073" x="4734" y="4502" width="1181" height="1126" frameX="-5" frameY="-20" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0074" x="1187" y="1146" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0075" x="5951" y="1125" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0076" x="5951" y="1125" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0077" x="5951" y="2250" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0078" x="4762" y="2252" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0079" x="3574" y="2270" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0080" x="3574" y="2270" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0081" x="5945" y="3375" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0082" x="5945" y="3375" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0083" x="4757" y="3377" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0084" x="5940" y="4500" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0085" x="5940" y="4500" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0086" x="5945" y="3375" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0087" x="5945" y="3375" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0088" x="5940" y="4500" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0089" x="1187" y="2271" width="1183" height="1125" frameX="-5" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0090" x="0" y="2287" width="1183" height="1125" frameX="-4" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0091" x="2370" y="2271" width="1183" height="1125" frameX="-4" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0092" x="2370" y="2271" width="1183" height="1125" frameX="-4" frameY="-21" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0093" x="0" y="0" width="1198" height="1141" frameX="-1" frameY="-5" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0094" x="0" y="0" width="1198" height="1141" frameX="-1" frameY="-5" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0095" x="1198" y="0" width="1190" height="1146" frameX="0" frameY="0" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0096" x="1198" y="0" width="1190" height="1146" frameX="0" frameY="0" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0097" x="1198" y="0" width="1190" height="1146" frameX="0" frameY="0" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0098" x="0" y="1141" width="1187" height="1146" frameX="-1" frameY="0" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0099" x="0" y="1141" width="1187" height="1146" frameX="-1" frameY="0" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0100" x="0" y="1141" width="1187" height="1146" frameX="-1" frameY="0" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0101" x="2388" y="0" width="1188" height="1144" frameX="-1" frameY="-2" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0102" x="2388" y="0" width="1188" height="1144" frameX="-1" frameY="-2" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0103" x="2388" y="0" width="1188" height="1144" frameX="-1" frameY="-2" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0104" x="2388" y="0" width="1188" height="1144" frameX="-1" frameY="-2" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0105" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0106" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0107" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0108" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0109" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0110" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0111" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0112" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0113" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0114" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0115" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0116" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0117" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0118" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0119" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0120" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0121" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0122" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0123" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0124" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0125" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0126" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0127" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0128" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0129" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0130" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0131" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0132" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0133" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0134" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0135" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0136" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0137" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0138" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0139" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0140" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0141" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0142" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0143" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0144" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0145" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0146" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0147" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0148" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0149" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0150" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0151" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0152" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0153" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0154" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0155" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0156" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0157" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0158" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0159" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0160" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0161" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0162" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0163" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0164" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0165" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0166" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0167" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0168" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0169" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0170" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0171" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0172" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0173" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0174" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0175" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0176" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0177" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0178" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0179" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0180" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0181" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0182" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0183" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0184" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0185" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0186" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0187" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0188" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0189" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
-	<SubTexture name="VDialogue0190" x="3576" y="0" width="1189" height="1143" frameX="-1" frameY="-3" frameWidth="1201" frameHeight="1146"/>
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0000" x="1613" y="1547" width="279" height="367" frameX="-6" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0001" x="1613" y="1547" width="279" height="367" frameX="-6" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0002" x="1613" y="1547" width="279" height="367" frameX="-6" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0003" x="2023" y="0" width="279" height="367" frameX="-6" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0004" x="2023" y="0" width="279" height="367" frameX="-6" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0005" x="0" y="1930" width="281" height="367" frameX="-4" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0006" x="0" y="1930" width="281" height="367" frameX="-4" frameY="-23" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0007" x="281" y="1930" width="281" height="365" frameX="-4" frameY="-25" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0008" x="281" y="1930" width="281" height="365" frameX="-4" frameY="-25" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0009" x="562" y="1930" width="281" height="365" frameX="-4" frameY="-25" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0010" x="1405" y="1930" width="280" height="364" frameX="-5" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0011" x="1685" y="1930" width="280" height="364" frameX="-5" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0012" x="1685" y="1930" width="280" height="364" frameX="-5" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0013" x="2302" y="1456" width="281" height="363" frameX="-4" frameY="-27" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0014" x="2302" y="1456" width="281" height="363" frameX="-4" frameY="-27" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0015" x="2302" y="1819" width="281" height="363" frameX="-4" frameY="-27" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0016" x="1965" y="1930" width="281" height="364" frameX="-4" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0017" x="2302" y="0" width="281" height="364" frameX="-4" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0018" x="2302" y="364" width="281" height="364" frameX="-4" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0019" x="2302" y="728" width="281" height="364" frameX="-4" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0020" x="2302" y="1092" width="281" height="364" frameX="-4" frameY="-26" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0021" x="843" y="1930" width="281" height="365" frameX="-4" frameY="-25" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0022" x="1124" y="1930" width="281" height="365" frameX="-4" frameY="-25" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0023" x="1124" y="1930" width="281" height="365" frameX="-4" frameY="-25" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0024" x="2583" y="361" width="284" height="359" frameX="-1" frameY="-31" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0025" x="2583" y="720" width="284" height="359" frameX="-1" frameY="-31" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0026" x="2583" y="1079" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0027" x="2583" y="1437" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0028" x="2583" y="1437" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0029" x="2583" y="1795" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0030" x="2583" y="1795" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0031" x="0" y="2297" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0032" x="282" y="2297" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0033" x="282" y="2297" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0034" x="564" y="2297" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0035" x="564" y="2297" width="282" height="358" frameX="-3" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0036" x="846" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0037" x="1129" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0038" x="1129" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0039" x="1129" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0040" x="1412" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0041" x="1412" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0042" x="1412" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0043" x="1412" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0044" x="1412" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0045" x="1412" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0046" x="1695" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0047" x="1695" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0048" x="1695" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0049" x="1695" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0050" x="1978" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0051" x="1978" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0052" x="1978" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0053" x="1978" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0054" x="1978" y="2297" width="283" height="358" frameX="-2" frameY="-32" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0055" x="2583" y="0" width="286" height="361" frameX="-2" frameY="-29" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0056" x="2583" y="0" width="286" height="361" frameX="-2" frameY="-29" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0057" x="2583" y="0" width="286" height="361" frameX="-2" frameY="-29" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0058" x="2583" y="0" width="286" height="361" frameX="-2" frameY="-29" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0059" x="1209" y="1547" width="404" height="378" frameX="-2" frameY="-12" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0060" x="1209" y="1547" width="404" height="378" frameX="-2" frameY="-12" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0061" x="1209" y="1547" width="404" height="378" frameX="-2" frameY="-12" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0062" x="0" y="1164" width="408" height="383" frameX="0" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0063" x="0" y="1164" width="408" height="383" frameX="0" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0064" x="0" y="1164" width="408" height="383" frameX="0" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0065" x="408" y="1164" width="406" height="383" frameX="0" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0066" x="408" y="1164" width="406" height="383" frameX="0" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0067" x="408" y="1164" width="406" height="383" frameX="0" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0068" x="809" y="388" width="404" height="384" frameX="-1" frameY="-6" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0069" x="0" y="780" width="404" height="384" frameX="-1" frameY="-6" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0070" x="404" y="780" width="404" height="384" frameX="-1" frameY="-6" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0071" x="808" y="780" width="403" height="384" frameX="-1" frameY="-6" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0072" x="808" y="780" width="403" height="384" frameX="-1" frameY="-6" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0073" x="1217" y="0" width="403" height="384" frameX="-1" frameY="-6" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0074" x="1217" y="384" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0075" x="1217" y="767" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0076" x="1217" y="767" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0077" x="814" y="1164" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0078" x="1217" y="1164" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0079" x="1620" y="0" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0080" x="1620" y="0" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0081" x="1620" y="383" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0082" x="1620" y="383" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0083" x="1620" y="766" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0084" x="1620" y="1149" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0085" x="1620" y="1149" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0086" x="1620" y="383" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0087" x="1620" y="383" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0088" x="1620" y="1149" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0089" x="0" y="1547" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0090" x="403" y="1547" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0091" x="806" y="1547" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0092" x="806" y="1547" width="403" height="383" frameX="-1" frameY="-7" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0093" x="809" y="0" width="408" height="388" frameX="0" frameY="-2" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0094" x="809" y="0" width="408" height="388" frameX="0" frameY="-2" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0095" x="0" y="0" width="405" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0096" x="0" y="0" width="405" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0097" x="0" y="0" width="405" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0098" x="405" y="0" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0099" x="405" y="0" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0100" x="405" y="0" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0101" x="0" y="390" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0102" x="0" y="390" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0103" x="0" y="390" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0104" x="0" y="390" width="404" height="390" frameX="0" frameY="0" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0105" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0106" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0107" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0108" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0109" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0110" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0111" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0112" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0113" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0114" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0115" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0116" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0117" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0118" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0119" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0120" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0121" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0122" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0123" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0124" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0125" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0126" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0127" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0128" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0129" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0130" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0131" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0132" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0133" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0134" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0135" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0136" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0137" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0138" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0139" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0140" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0141" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0142" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0143" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0144" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0145" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0146" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0147" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0148" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0149" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0150" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0151" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0152" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0153" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0154" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0155" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0156" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0157" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0158" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0159" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0160" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0161" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0162" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0163" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0164" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0165" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0166" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0167" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0168" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0169" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0170" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0171" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0172" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0173" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0174" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0175" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0176" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0177" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0178" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0179" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0180" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0181" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0182" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0183" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0184" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0185" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0186" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0187" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0188" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0189" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
+<SubTexture name="Mr_Virtual_V2_DIALOGUE idle0190" x="404" y="390" width="405" height="389" frameX="0" frameY="-1" frameWidth="408" frameHeight="390" />
 </TextureAtlas>
