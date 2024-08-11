@@ -1,121 +1,119 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="Powerstar_Mario_v2_Assets2.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="ABPowerDialog0000" x="5" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0001" x="5" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0002" x="668" y="5" width="645" height="759" frameX="-4" frameY="-244" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0003" x="1323" y="5" width="645" height="759" frameX="-4" frameY="-244" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0004" x="1978" y="5" width="655" height="749" frameX="-6" frameY="-254" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0005" x="1978" y="5" width="655" height="749" frameX="-6" frameY="-254" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0006" x="2643" y="5" width="655" height="756" frameX="0" frameY="-247" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0007" x="2643" y="5" width="655" height="756" frameX="0" frameY="-247" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0008" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0009" x="3971" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0010" x="3971" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0011" x="3971" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0012" x="4634" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0013" x="4634" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0014" x="4634" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0015" x="4634" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0016" x="5297" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0017" x="5297" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0018" x="5297" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0019" x="5297" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0020" x="5960" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0021" x="5960" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0022" x="5960" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0023" x="6623" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0024" x="6623" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0025" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0026" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0027" x="7286" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0028" x="7286" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0029" x="5" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0030" x="5" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0031" x="5" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0032" x="5" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0033" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0034" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0035" x="668" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0036" x="668" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0037" x="5960" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0038" x="5960" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0039" x="1331" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0040" x="1331" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0041" x="1994" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0042" x="1994" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0043" x="2657" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0044" x="2657" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0045" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0046" x="3308" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0047" x="7286" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0048" x="7286" y="5" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0049" x="3320" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0050" x="3320" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0051" x="3320" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0052" x="3320" y="774" width="653" height="757" frameX="-2" frameY="-246" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0053" x="3983" y="774" width="651" height="750" frameX="-8" frameY="-253" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0054" x="3983" y="774" width="651" height="750" frameX="-8" frameY="-253" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0055" x="4644" y="774" width="650" height="836" frameX="-41" frameY="-166" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0056" x="4644" y="774" width="650" height="836" frameX="-41" frameY="-166" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0057" x="5304" y="774" width="661" height="833" frameX="-21" frameY="-169" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0058" x="5304" y="774" width="661" height="833" frameX="-21" frameY="-169" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0059" x="5975" y="774" width="650" height="836" frameX="-41" frameY="-166" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0060" x="5975" y="774" width="650" height="836" frameX="-41" frameY="-166" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0061" x="6635" y="774" width="697" height="1002" frameX="-51" frameY="0" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0062" x="6635" y="774" width="697" height="1002" frameX="-51" frameY="0" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0063" x="5" y="1786" width="1160" height="744" frameX="-52" frameY="-258" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0064" x="5" y="1786" width="1160" height="744" frameX="-52" frameY="-258" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0065" x="1175" y="1786" width="1214" height="723" frameX="-52" frameY="-279" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0066" x="1175" y="1786" width="1214" height="723" frameX="-52" frameY="-279" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0067" x="2399" y="1786" width="1195" height="723" frameX="-52" frameY="-279" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0068" x="3604" y="1786" width="1195" height="723" frameX="-52" frameY="-279" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0069" x="4809" y="1786" width="1190" height="725" frameX="-52" frameY="-277" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0070" x="4809" y="1786" width="1190" height="725" frameX="-52" frameY="-277" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0071" x="6009" y="1786" width="1188" height="728" frameX="-52" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0072" x="6009" y="1786" width="1188" height="728" frameX="-52" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0073" x="5" y="2540" width="1188" height="728" frameX="-52" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0074" x="5" y="2540" width="1188" height="728" frameX="-52" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0075" x="1203" y="2540" width="1188" height="728" frameX="-52" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0076" x="1203" y="2540" width="1188" height="728" frameX="-52" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0077" x="2401" y="2540" width="1183" height="728" frameX="-57" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0078" x="3594" y="2540" width="1183" height="728" frameX="-57" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0079" x="4787" y="2540" width="1181" height="728" frameX="-59" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0080" x="4787" y="2540" width="1181" height="728" frameX="-59" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0081" x="5978" y="2540" width="1186" height="728" frameX="-54" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0082" x="5978" y="2540" width="1186" height="728" frameX="-54" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0083" x="5" y="3278" width="1181" height="728" frameX="-59" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0084" x="5" y="3278" width="1181" height="728" frameX="-59" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0085" x="1196" y="3278" width="1179" height="728" frameX="-61" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0086" x="1196" y="3278" width="1179" height="728" frameX="-61" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0087" x="2385" y="3278" width="1178" height="728" frameX="-62" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0088" x="2385" y="3278" width="1178" height="728" frameX="-62" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0089" x="3573" y="3278" width="1179" height="728" frameX="-61" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0090" x="3573" y="3278" width="1179" height="728" frameX="-61" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0091" x="4762" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0092" x="4762" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0093" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0094" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0095" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0096" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0097" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0098" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0099" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0100" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0101" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0102" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0103" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0104" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0105" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0106" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0107" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0108" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0109" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0110" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0111" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0112" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0113" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0114" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
-	<SubTexture name="ABPowerDialog0115" x="5945" y="3278" width="1173" height="728" frameX="-67" frameY="-274" frameWidth="1266" frameHeight="1003"/>
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0000" x="904" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0001" x="904" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0002" x="299" y="451" width="292" height="342" frameX="-1" frameY="-109" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0003" x="591" y="451" width="292" height="342" frameX="-1" frameY="-109" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0004" x="1183" y="1168" width="297" height="337" frameX="-2" frameY="-114" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0005" x="1183" y="1168" width="297" height="337" frameX="-2" frameY="-114" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0006" x="904" y="341" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0007" x="904" y="341" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0008" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0009" x="296" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0010" x="296" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0011" x="296" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0012" x="592" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0013" x="592" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0014" x="592" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0015" x="592" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0016" x="888" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0017" x="888" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0018" x="888" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0019" x="888" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0020" x="1200" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0021" x="1200" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0022" x="1200" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0023" x="1200" y="341" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0024" x="1200" y="341" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0025" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0026" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0027" x="1200" y="682" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0028" x="1200" y="682" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0029" x="904" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0030" x="904" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0031" x="1496" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0032" x="1496" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0033" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0034" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0035" x="1496" y="341" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0036" x="1496" y="341" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0037" x="1200" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0038" x="1200" y="0" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0039" x="1496" y="682" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0040" x="1496" y="682" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0041" x="0" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0042" x="0" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0043" x="296" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0044" x="296" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0045" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0046" x="0" y="827" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0047" x="1200" y="682" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0048" x="1200" y="682" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0049" x="592" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0050" x="592" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0051" x="592" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0052" x="592" y="1168" width="296" height="341" frameX="0" frameY="-110" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0053" x="888" y="1168" width="295" height="338" frameX="-3" frameY="-113" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0054" x="888" y="1168" width="295" height="338" frameX="-3" frameY="-113" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0055" x="316" y="0" width="294" height="377" frameX="-18" frameY="-74" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0056" x="316" y="0" width="294" height="377" frameX="-18" frameY="-74" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0057" x="0" y="451" width="299" height="376" frameX="-9" frameY="-75" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0058" x="0" y="451" width="299" height="376" frameX="-9" frameY="-75" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0059" x="610" y="0" width="294" height="377" frameX="-18" frameY="-74" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0060" x="610" y="0" width="294" height="377" frameX="-18" frameY="-74" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0061" x="0" y="0" width="316" height="451" frameX="-22" frameY="0" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0062" x="0" y="0" width="316" height="451" frameX="-22" frameY="0" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0063" x="1792" y="0" width="523" height="336" frameX="-23" frameY="-115" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0064" x="1792" y="0" width="523" height="336" frameX="-23" frameY="-115" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0065" x="537" y="2165" width="547" height="326" frameX="-23" frameY="-125" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0066" x="537" y="2165" width="547" height="326" frameX="-23" frameY="-125" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0067" x="1084" y="2165" width="538" height="326" frameX="-23" frameY="-125" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0068" x="1622" y="2165" width="538" height="326" frameX="-23" frameY="-125" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0069" x="0" y="2165" width="537" height="327" frameX="-23" frameY="-124" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0070" x="0" y="2165" width="537" height="327" frameX="-23" frameY="-124" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0071" x="0" y="1509" width="536" height="328" frameX="-23" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0072" x="0" y="1509" width="536" height="328" frameX="-23" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0073" x="536" y="1509" width="536" height="328" frameX="-23" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0074" x="536" y="1509" width="536" height="328" frameX="-23" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0075" x="1072" y="1509" width="536" height="328" frameX="-23" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0076" x="1072" y="1509" width="536" height="328" frameX="-23" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0077" x="1608" y="1509" width="534" height="328" frameX="-25" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0078" x="0" y="1837" width="534" height="328" frameX="-25" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0079" x="534" y="1837" width="533" height="328" frameX="-26" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0080" x="534" y="1837" width="533" height="328" frameX="-26" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0081" x="1067" y="1837" width="535" height="328" frameX="-24" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0082" x="1067" y="1837" width="535" height="328" frameX="-24" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0083" x="1602" y="1837" width="533" height="328" frameX="-26" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0084" x="1602" y="1837" width="533" height="328" frameX="-26" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0085" x="2315" y="0" width="532" height="328" frameX="-27" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0086" x="2315" y="0" width="532" height="328" frameX="-27" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0087" x="2315" y="328" width="532" height="328" frameX="-27" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0088" x="2315" y="328" width="532" height="328" frameX="-27" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0089" x="2315" y="656" width="532" height="328" frameX="-27" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0090" x="2315" y="656" width="532" height="328" frameX="-27" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0091" x="2315" y="984" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0092" x="2315" y="984" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0093" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0094" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0095" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0096" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0097" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0098" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0099" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0100" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0101" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0102" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0103" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0104" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0105" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0106" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0107" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0108" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0109" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0110" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0111" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0112" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0113" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0114" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
+<SubTexture name="Powerstar_Mario_v2_Assets2 idle0115" x="2315" y="1312" width="530" height="328" frameX="-29" frameY="-123" frameWidth="570" frameHeight="451" />
 </TextureAtlas>

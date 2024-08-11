@@ -1,438 +1,427 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Racist_Mario_Girlfriend_Assets_v2.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="GFAnim10000" x="0" y="0" width="576" height="432" frameX="0" frameY="-3" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFAnim10001" x="600" y="0" width="576" height="434" frameX="0" frameY="-1" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFAnim10002" x="1200" y="0" width="576" height="434" frameX="0" frameY="-1" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFAnim10003" x="1800" y="0" width="576" height="435"/>
-	<SubTexture name="GFAnim10004" x="2400" y="0" width="576" height="435"/>
-	<SubTexture name="GFAnim10005" x="3000" y="0" width="576" height="435"/>
-	<SubTexture name="GFAnim10006" x="0" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10007" x="600" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10008" x="1200" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10009" x="1800" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10010" x="2400" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10011" x="2400" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10012" x="1800" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10013" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10014" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10015" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10016" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10017" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10018" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10019" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10020" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10021" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10022" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10023" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10024" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10025" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10026" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10027" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10028" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10029" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10030" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10031" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10032" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10033" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10034" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10035" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10036" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10037" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10038" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10039" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10040" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10041" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10042" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10043" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10044" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10045" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10046" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10047" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10048" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10049" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10050" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10051" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10052" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10053" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10054" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10055" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10056" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10057" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10058" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10059" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10060" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10061" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10062" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10063" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10064" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10065" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10066" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10067" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10068" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10069" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10070" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10071" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10072" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10073" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10074" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10075" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10076" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10077" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10078" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10079" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10080" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10081" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10082" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10083" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10084" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10085" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10086" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10087" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10088" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10089" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10090" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10091" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10092" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10093" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10094" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10095" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10096" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10097" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10098" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10099" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10100" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10101" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10102" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10103" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10104" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10105" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10106" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10107" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10108" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10109" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10110" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10111" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10112" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10113" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10114" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10115" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10116" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10117" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10118" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10119" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10120" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10121" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10122" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10123" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10124" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10125" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10126" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10127" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10128" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10129" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10130" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10131" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10132" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10133" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10134" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10135" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10136" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10137" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10138" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10139" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10140" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10141" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10142" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10143" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10144" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10145" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10146" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10147" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10148" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10149" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10150" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10151" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10152" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10153" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10154" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10155" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10156" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10157" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10158" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10159" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10160" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10161" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10162" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10163" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10164" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10165" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10166" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10167" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10168" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10169" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10170" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10171" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10172" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10173" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10174" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10175" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10176" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10177" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10178" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10179" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10180" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10181" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10182" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10183" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10184" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10185" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10186" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10187" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10188" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10189" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10190" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10191" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10192" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10193" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10194" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10195" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10196" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10197" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10198" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10199" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10200" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10201" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10202" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10203" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10204" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10205" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10206" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10207" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10208" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10209" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10210" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10211" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10212" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10213" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10214" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10215" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10216" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10217" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10218" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10219" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10220" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10221" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10222" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10223" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10224" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10225" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10226" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10227" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10228" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10229" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10230" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10231" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10232" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10233" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10234" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10235" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10236" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10237" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10238" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10239" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10240" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10241" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10242" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10243" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10244" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10245" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10246" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10247" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10248" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10249" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10250" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10251" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10252" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10253" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10254" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10255" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10256" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10257" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10258" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10259" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10260" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10261" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10262" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10263" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10264" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10265" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10266" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10267" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10268" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10269" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10270" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10271" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10272" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10273" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10274" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10275" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10276" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10277" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10278" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10279" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10280" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10281" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10282" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10283" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10284" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10285" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10286" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10287" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10288" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10289" x="600" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10290" x="1200" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10291" x="1800" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10292" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10293" x="3000" y="459" width="576" height="435"/>
-	<SubTexture name="GFAnim10294" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFAnim10295" x="0" y="918" width="576" height="435"/>
-	<SubTexture name="GFIdle0000" x="2400" y="918" width="576" height="427" frameX="0" frameY="-8" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0001" x="3000" y="918" width="576" height="425" frameX="0" frameY="-10" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0002" x="0" y="1377" width="576" height="425" frameX="0" frameY="-10" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0003" x="600" y="1377" width="576" height="425" frameX="0" frameY="-10" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0004" x="1200" y="1377" width="576" height="426" frameX="0" frameY="-9" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0005" x="1200" y="1377" width="576" height="426" frameX="0" frameY="-9" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0006" x="1800" y="1377" width="576" height="427" frameX="0" frameY="-8" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0007" x="1800" y="1377" width="576" height="427" frameX="0" frameY="-8" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0008" x="2400" y="1377" width="576" height="430" frameX="0" frameY="-5" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0009" x="3000" y="1377" width="576" height="435"/>
-	<SubTexture name="GFIdle0010" x="0" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0011" x="0" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0012" x="600" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0013" x="600" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0014" x="1200" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0015" x="1200" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0016" x="1800" y="1836" width="576" height="424" frameX="0" frameY="-11" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0017" x="2400" y="1836" width="576" height="423" frameX="0" frameY="-12" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0018" x="3000" y="1836" width="576" height="423" frameX="0" frameY="-12" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0019" x="0" y="2295" width="576" height="423" frameX="0" frameY="-12" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0020" x="600" y="2295" width="576" height="423" frameX="0" frameY="-12" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0021" x="600" y="2295" width="576" height="423" frameX="0" frameY="-12" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0022" x="1200" y="2295" width="576" height="430" frameX="0" frameY="-5" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0023" x="1200" y="2295" width="576" height="430" frameX="0" frameY="-5" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0024" x="1800" y="2295" width="576" height="434" frameX="0" frameY="-1" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0025" x="1800" y="2295" width="576" height="434" frameX="0" frameY="-1" frameWidth="576" frameHeight="435"/>
-	<SubTexture name="GFIdle0026" x="2400" y="2295" width="576" height="435"/>
-	<SubTexture name="GFIdle0027" x="1200" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0028" x="600" y="1836" width="576" height="435"/>
-	<SubTexture name="GFIdle0029" x="600" y="1836" width="576" height="435"/>
-	<SubTexture name="GFMiss0000" x="3000" y="2295" width="576" height="399" frameX="0" frameY="-9" frameWidth="576" frameHeight="408"/>
-	<SubTexture name="GFMiss0001" x="0" y="2754" width="576" height="407" frameX="0" frameY="-1" frameWidth="576" frameHeight="408"/>
-	<SubTexture name="GFMiss0002" x="600" y="2754" width="576" height="407" frameX="0" frameY="-1" frameWidth="576" frameHeight="408"/>
-	<SubTexture name="GFMiss0003" x="1200" y="2754" width="576" height="408"/>
-	<SubTexture name="GFMiss0004" x="1800" y="2754" width="576" height="408"/>
-	<SubTexture name="GFMiss0005" x="2400" y="2754" width="576" height="408"/>
-	<SubTexture name="GFMiss0006" x="2400" y="2754" width="576" height="408"/>
-	<SubTexture name="GFMiss0007" x="3000" y="2754" width="576" height="408"/>
-	<SubTexture name="GFMiss0008" x="3000" y="2754" width="576" height="408"/>
-	<SubTexture name="GFShoked0000" x="0" y="3186" width="576" height="419" frameX="0" frameY="-7" frameWidth="576" frameHeight="426"/>
-	<SubTexture name="GFShoked0001" x="600" y="3186" width="576" height="426"/>
-	<SubTexture name="GFShoked0002" x="1200" y="3186" width="576" height="426"/>
-	<SubTexture name="GFShoked0003" x="1800" y="3186" width="576" height="426"/>
-	<SubTexture name="GFShoked0004" x="2400" y="3186" width="576" height="426"/>
-	<SubTexture name="GFShoked0005" x="3000" y="3186" width="576" height="426"/>
-	<SubTexture name="GFShoked0006" x="0" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0007" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0008" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0009" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0010" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0011" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0012" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0013" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0014" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0015" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0016" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0017" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0018" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0019" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0020" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0021" x="2400" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0022" x="0" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0023" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0024" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0025" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0026" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0027" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0028" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0029" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0030" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0031" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0032" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0033" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0034" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0035" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0036" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0037" x="2400" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0038" x="0" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0039" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0040" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0041" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0042" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0043" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0044" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0045" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0046" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0047" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0048" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0049" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0050" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0051" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0052" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0053" x="2400" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0054" x="0" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0055" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0056" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0057" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0058" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0059" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0060" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0061" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0062" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0063" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0064" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0065" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0066" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0067" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0068" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0069" x="2400" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0070" x="0" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0071" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0072" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0073" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0074" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0075" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0076" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0077" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0078" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0079" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0080" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0081" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0082" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0083" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0084" x="1800" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0085" x="2400" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0086" x="0" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0087" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0088" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0089" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0090" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0091" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0092" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0093" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0094" x="1200" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0095" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0096" x="600" y="3636" width="576" height="426"/>
-	<SubTexture name="GFShoked0097" x="1200" y="3636" width="576" height="426"/>
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Race_Mario_Girlfriend_Assets_v1.png">
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0000" x="0" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0001" x="259" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0002" x="0" y="196" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0003" x="259" y="196" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0004" x="518" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0005" x="518" y="196" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0006" x="0" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0007" x="259" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0008" x="518" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0009" x="777" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0010" x="777" y="196" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0011" x="777" y="196" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0012" x="777" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0013" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0014" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0015" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0016" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0017" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0018" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0019" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0020" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0021" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0022" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0023" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0024" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0025" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0026" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0027" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0028" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0029" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0030" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0031" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0032" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0033" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0034" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0035" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0036" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0037" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0038" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0039" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0040" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0041" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0042" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0043" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0044" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0045" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0046" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0047" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0048" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0049" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0050" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0051" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0052" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0053" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0054" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0055" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0056" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0057" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0058" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0059" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0060" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0061" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0062" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0063" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0064" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0065" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0066" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0067" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0068" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0069" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0070" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0071" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0072" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0073" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0074" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0075" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0076" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0077" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0078" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0079" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0080" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0081" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0082" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0083" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0084" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0085" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0086" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0087" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0088" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0089" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0090" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0091" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0092" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0093" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0094" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0095" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0096" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0097" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0098" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0099" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0100" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0101" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0102" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0103" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0104" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0105" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0106" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0107" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0108" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0109" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0110" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0111" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0112" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0113" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0114" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0115" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0116" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0117" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0118" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0119" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0120" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0121" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0122" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0123" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0124" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0125" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0126" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0127" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0128" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0129" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0130" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0131" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0132" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0133" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0134" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0135" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0136" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0137" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0138" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0139" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0140" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0141" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0142" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0143" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0144" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0145" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0146" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0147" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0148" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0149" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0150" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0151" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0152" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0153" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0154" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0155" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0156" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0157" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0158" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0159" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0160" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0161" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0162" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0163" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0164" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0165" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0166" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0167" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0168" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0169" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0170" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0171" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0172" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0173" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0174" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0175" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0176" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0177" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0178" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0179" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0180" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0181" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0182" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0183" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0184" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0185" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0186" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0187" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0188" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0189" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0190" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0191" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0192" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0193" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0194" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0195" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0196" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0197" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0198" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0199" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0200" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0201" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0202" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0203" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0204" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0205" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0206" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0207" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0208" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0209" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0210" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0211" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0212" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0213" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0214" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0215" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0216" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0217" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0218" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0219" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0220" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0221" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0222" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0223" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0224" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0225" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0226" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0227" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0228" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0229" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0230" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0231" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0232" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0233" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0234" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0235" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0236" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0237" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0238" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0239" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0240" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0241" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0242" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0243" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0244" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0245" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0246" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0247" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0248" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0249" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0250" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0251" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0252" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0253" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0254" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0255" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0256" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0257" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0258" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0259" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0260" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0261" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0262" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0263" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0264" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0265" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0266" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0267" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0268" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0269" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0270" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0271" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0272" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0273" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0274" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0275" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0276" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0277" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0278" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0279" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0280" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0281" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0282" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0283" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0284" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0285" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0286" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0287" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0288" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0289" x="259" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0290" x="518" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0291" x="777" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0292" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0293" x="777" y="392" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0294" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 Anim0295" x="0" y="588" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0000" x="1036" y="782" width="259" height="193" frameX="0" frameY="-3" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0001" x="518" y="980" width="259" height="192" frameX="0" frameY="-4" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0002" x="777" y="980" width="259" height="192" frameX="0" frameY="-4" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0003" x="1036" y="980" width="259" height="192" frameX="0" frameY="-4" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0004" x="0" y="980" width="259" height="193" frameX="0" frameY="-3" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0005" x="0" y="980" width="259" height="193" frameX="0" frameY="-3" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0006" x="259" y="980" width="259" height="193" frameX="0" frameY="-3" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0007" x="259" y="980" width="259" height="193" frameX="0" frameY="-3" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0008" x="1036" y="392" width="259" height="195" frameX="0" frameY="-1" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0009" x="0" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0010" x="259" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0011" x="259" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0012" x="518" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0013" x="518" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0014" x="777" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0015" x="777" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0016" x="1295" y="0" width="259" height="192" frameX="0" frameY="-4" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0017" x="1295" y="1173" width="259" height="191" frameX="0" frameY="-5" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0018" x="1554" y="0" width="259" height="191" frameX="0" frameY="-5" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0019" x="1554" y="191" width="259" height="191" frameX="0" frameY="-5" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0020" x="1554" y="382" width="259" height="191" frameX="0" frameY="-5" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0021" x="1554" y="382" width="259" height="191" frameX="0" frameY="-5" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0022" x="1036" y="587" width="259" height="195" frameX="0" frameY="-1" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0023" x="1036" y="587" width="259" height="195" frameX="0" frameY="-1" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0024" x="1036" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0025" x="1036" y="0" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0026" x="1036" y="196" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0027" x="777" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0028" x="518" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 aaaa0029" x="518" y="784" width="259" height="196" frameX="0" frameY="0" frameWidth="259" frameHeight="196" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0000" x="1554" y="573" width="259" height="190" frameX="0" frameY="-2" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0001" x="1295" y="192" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0002" x="1295" y="384" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0003" x="1295" y="576" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0004" x="1295" y="768" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0005" x="1295" y="960" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0006" x="0" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0007" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0008" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0009" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0010" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0011" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0012" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0013" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0014" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0015" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0016" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0017" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0018" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0019" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0020" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0021" x="1036" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0022" x="0" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0023" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0024" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0025" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0026" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0027" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0028" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0029" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0030" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0031" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0032" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0033" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0034" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0035" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0036" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0037" x="1036" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0038" x="0" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0039" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0040" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0041" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0042" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0043" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0044" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0045" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0046" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0047" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0048" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0049" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0050" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0051" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0052" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0053" x="1036" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0054" x="0" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0055" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0056" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0057" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0058" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0059" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0060" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0061" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0062" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0063" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0064" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0065" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0066" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0067" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0068" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0069" x="1036" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0070" x="0" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0071" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0072" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0073" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0074" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0075" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0076" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0077" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0078" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0079" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0080" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0081" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0082" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0083" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0084" x="777" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0085" x="1036" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0086" x="0" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0087" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0088" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0089" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0090" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0091" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0092" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0093" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0094" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0095" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0096" x="259" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
+<SubTexture name="Race_Mario_Girlfriend_Assets_v1 idle0097" x="518" y="1173" width="259" height="192" frameX="0" frameY="0" frameWidth="259" frameHeight="192" />
 </TextureAtlas>
