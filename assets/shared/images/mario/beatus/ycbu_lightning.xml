@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="ycbu_lightning.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="lightning0000" x="5" y="5" width="149" height="871" frameX="0" frameY="0" frameWidth="158" frameHeight="871"/>
-	<SubTexture name="lightning0001" x="164" y="5" width="154" height="865" frameX="-3" frameY="-3" frameWidth="158" frameHeight="871"/>
-	<SubTexture name="lightning0002" x="328" y="5" width="155" height="859" frameX="-3" frameY="-7" frameWidth="158" frameHeight="871"/>
-	<SubTexture name="lightning0003" x="493" y="5" width="143" height="867" frameX="-7" frameY="0" frameWidth="158" frameHeight="871"/>
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="lightning0000" x="263" y="0" width="124" height="841" frameX="-11" frameY="-14" frameWidth="158" frameHeight="871"/>
+	<SubTexture name="lightning0001" x="0" y="0" width="131" height="843" frameX="-11" frameY="-12" frameWidth="158" frameHeight="871"/>
+	<SubTexture name="lightning0002" x="131" y="0" width="132" height="836" frameX="-13" frameY="-17" frameWidth="158" frameHeight="871"/>
+	<SubTexture name="lightning0003" x="0" y="843" width="116" height="846" frameX="-20" frameY="-8" frameWidth="158" frameHeight="871"/>
 </TextureAtlas>
