@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="act2_static.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="act2stat0000" x="5" y="5" width="1280" height="720"/>
-	<SubTexture name="act2stat0001" x="1295" y="5" width="1280" height="720"/>
-	<SubTexture name="act2stat0002" x="2585" y="5" width="1280" height="720"/>
-	<SubTexture name="act2stat0003" x="5" y="735" width="1280" height="720"/>
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="act2stat0000" x="1284" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="act2stat0001" x="0" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="act2stat0002" x="1284" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="act2stat0003" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
 </TextureAtlas>
