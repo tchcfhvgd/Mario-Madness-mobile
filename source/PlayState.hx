@@ -1788,7 +1788,7 @@ class PlayState extends MusicBeatState
 				oldTV = true;
 				tvEffect = true;
 
-				promoBGSad = new BGSprite('mario/promo/promobg', 0, 19, ['bg depression'], true);
+				promoBGSad = new BGSprite('mario/promo/promobg2', 0, 19, ['bg depression'], true);
 				promoBGSad.antialiasing = ClientPrefs.globalAntialiasing;
 				add(promoBGSad);
 				promoBGSad.visible = false;
@@ -2302,20 +2302,20 @@ class PlayState extends MusicBeatState
 				gflol.alpha = 0.000001;
 				add(gflol);
 
-				gfwalk = new BGSprite('mario/cityout/they-walkin', -390, 280, ['ldo gf end dialogue'], false);
+				gfwalk = new BGSprite('mario/cityout/gf-walkin', -390, 280, ['ldo gf end dialogue'], false);
 				gfwalk.animation.addByPrefix('why', "ldo gf end dialogue", 21, false);
 
 				gfspeak = new BGSprite('mario/cityout/stereo_still_image', -390, 640);
 				gfspeak.alpha = 0.000001;
 
-				bfwalk = new BGSprite('mario/cityout/they-walkin', -13, 325, ['ldo bf end dialogue'], false);
+				bfwalk = new BGSprite('mario/cityout/bf-walkin', -13, 325, ['ldo bf end dialogue'], false);
 				bfwalk.animation.addByPrefix('why', "ldo bf end dialogue", 21, false);
 				bfwalk.scale.set(1.1, 1.1);
 
-				mrwalk = new BGSprite('mario/cityout/they-walkin', 355, 248, ['ldo mario end dialogue'], false);
+				mrwalk = new BGSprite('mario/cityout/mario-walkin', 355, 248, ['ldo mario end dialogue'], false);
 				mrwalk.animation.addByPrefix('why', "ldo mario end dialogue", 21, false);
 
-				lgwalk = new BGSprite('mario/cityout/they-walkin', 796.5, 150, ['ldo luigi end dialogue'], false);
+				lgwalk = new BGSprite('mario/cityout/luigi-walkin', 796.5, 150, ['ldo luigi end dialogue'], false);
 				lgwalk.animation.addByPrefix('why', "ldo luigi end dialogue", 21, false);
 
 				gfwalk.alpha = 0.000001;
