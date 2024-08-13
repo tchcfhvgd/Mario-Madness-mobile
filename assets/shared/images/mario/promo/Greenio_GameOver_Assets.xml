@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="Greenio_GameOver_Assets.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="faceless hang0000" x="5" y="5" width="373" height="637"/>
-	<SubTexture name="faceless hang0001" x="5" y="5" width="373" height="637"/>
-	<SubTexture name="faceless hang0002" x="388" y="5" width="372" height="637" frameX="-1" frameY="0" frameWidth="373" frameHeight="637"/>
-	<SubTexture name="faceless hang0003" x="388" y="5" width="372" height="637" frameX="-1" frameY="0" frameWidth="373" frameHeight="637"/>
-	<SubTexture name="faceless hang0004" x="770" y="5" width="371" height="636" frameX="-1" frameY="-1" frameWidth="373" frameHeight="637"/>
-	<SubTexture name="faceless hang0005" x="770" y="5" width="371" height="636" frameX="-1" frameY="-1" frameWidth="373" frameHeight="637"/>
-	<SubTexture name="faceless scare0000" x="1151" y="5" width="897" height="810" frameX="-5" frameY="0" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0001" x="2058" y="5" width="864" height="799" frameX="-4" frameY="-11" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0002" x="2058" y="5" width="864" height="799" frameX="-4" frameY="-11" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0003" x="2932" y="5" width="785" height="803" frameX="-2" frameY="-7" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0004" x="5" y="825" width="761" height="796" frameX="-1" frameY="-14" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0005" x="5" y="825" width="761" height="796" frameX="-1" frameY="-14" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0006" x="776" y="825" width="761" height="794" frameX="-1" frameY="-16" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0007" x="1547" y="825" width="761" height="794" frameX="0" frameY="-16" frameWidth="902" frameHeight="810"/>
-	<SubTexture name="faceless scare0008" x="1547" y="825" width="761" height="794" frameX="0" frameY="-16" frameWidth="902" frameHeight="810"/>
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="faceless hang0000" x="0" y="1619" width="377" height="641" frameX="2" frameY="2" frameWidth="373" frameHeight="637"/>
+	<SubTexture name="faceless hang0001" x="0" y="1619" width="377" height="641" frameX="2" frameY="2" frameWidth="373" frameHeight="637"/>
+	<SubTexture name="faceless hang0002" x="377" y="1619" width="376" height="641" frameX="1" frameY="2" frameWidth="373" frameHeight="637"/>
+	<SubTexture name="faceless hang0003" x="377" y="1619" width="376" height="641" frameX="1" frameY="2" frameWidth="373" frameHeight="637"/>
+	<SubTexture name="faceless hang0004" x="753" y="1619" width="375" height="639" frameX="1" frameY="1" frameWidth="373" frameHeight="637"/>
+	<SubTexture name="faceless hang0005" x="753" y="1619" width="375" height="639" frameX="1" frameY="1" frameWidth="373" frameHeight="637"/>
+	<SubTexture name="faceless scare0000" x="0" y="0" width="901" height="813" frameX="-3" frameY="2" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0001" x="901" y="0" width="868" height="802" frameX="-2" frameY="-9" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0002" x="901" y="0" width="868" height="802" frameX="-2" frameY="-9" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0003" x="0" y="813" width="788" height="806" frameX="0" frameY="-5" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0004" x="788" y="813" width="764" height="799" frameX="1" frameY="-12" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0005" x="788" y="813" width="764" height="799" frameX="1" frameY="-12" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0006" x="1769" y="797" width="765" height="797" frameX="1" frameY="-14" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0007" x="1769" y="0" width="765" height="797" frameX="2" frameY="-14" frameWidth="902" frameHeight="810"/>
+	<SubTexture name="faceless scare0008" x="1769" y="0" width="765" height="797" frameX="2" frameY="-14" frameWidth="902" frameHeight="810"/>
 </TextureAtlas>

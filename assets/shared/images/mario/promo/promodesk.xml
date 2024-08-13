@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="promodesk.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Promario desk flash0000" x="5" y="5" width="1249" height="551" frameX="0" frameY="-15" frameWidth="1249" frameHeight="566"/>
-	<SubTexture name="Promario desk flash0001" x="1264" y="5" width="1249" height="551" frameX="0" frameY="-15" frameWidth="1249" frameHeight="566"/>
-	<SubTexture name="Promario desk flash0002" x="2523" y="5" width="1249" height="551" frameX="0" frameY="-15" frameWidth="1249" frameHeight="566"/>
-	<SubTexture name="Promario desk flash0003" x="5" y="566" width="1249" height="551" frameX="0" frameY="-15" frameWidth="1249" frameHeight="566"/>
-	<SubTexture name="Promario desk flash0004" x="1264" y="566" width="1249" height="551" frameX="0" frameY="-15" frameWidth="1249" frameHeight="566"/>
-	<SubTexture name="Promario desk flash0005" x="2523" y="566" width="1249" height="566"/>
-	<SubTexture name="Promario desk flash0006" x="5" y="1142" width="1249" height="566"/>
-	<SubTexture name="Promario desk luigi0000" x="1264" y="1142" width="1249" height="562"/>
-	<SubTexture name="Promario desk luigi0001" x="2523" y="1142" width="1249" height="562"/>
-	<SubTexture name="Promario desk luigi0002" x="5" y="1718" width="1249" height="562"/>
-	<SubTexture name="Promario desk luigi0003" x="1264" y="1718" width="1249" height="562"/>
-	<SubTexture name="Promario desk luigi0004" x="2523" y="1718" width="1249" height="562"/>
-	<SubTexture name="Promario desk luigi0005" x="5" y="2290" width="1249" height="562"/>
-	<SubTexture name="Promario desk static0000" x="1264" y="2290" width="1249" height="562"/>
-	<SubTexture name="Promario desk static0001" x="2523" y="2290" width="1249" height="562"/>
-	<SubTexture name="Promario desk static0002" x="5" y="2862" width="1249" height="562"/>
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Promario desk flash0000" x="0" y="2250" width="1253" height="555" frameX="2" frameY="-13" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk flash0001" x="2506" y="2250" width="1253" height="555" frameX="2" frameY="-13" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk flash0002" x="1253" y="2250" width="1253" height="555" frameX="2" frameY="-13" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk flash0003" x="2506" y="1683" width="1253" height="555" frameX="2" frameY="-13" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk flash0004" x="0" y="2805" width="1253" height="555" frameX="2" frameY="-13" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk flash0005" x="0" y="0" width="1253" height="564" frameX="2" frameY="-4" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk flash0006" x="0" y="564" width="1253" height="564" frameX="2" frameY="-4" frameWidth="1249" frameHeight="566"/>
+	<SubTexture name="Promario desk luigi0000" x="1253" y="1689" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk luigi0001" x="1253" y="1128" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk luigi0002" x="2506" y="1122" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk luigi0003" x="2506" y="0" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk luigi0004" x="0" y="1128" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk luigi0005" x="1253" y="0" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk static0000" x="1253" y="561" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk static0001" x="2506" y="561" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
+	<SubTexture name="Promario desk static0002" x="0" y="1689" width="1253" height="561" frameX="2" frameY="-3" frameWidth="1249" frameHeight="562"/>
 </TextureAtlas>

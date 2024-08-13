@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="stanley_lines.png">
-	<!-- Created with Adobe Animate version 22.0.2.168 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="lines0000" x="5" y="5" width="654" height="111" frameX="0" frameY="-4" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0001" x="5" y="343" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0002" x="5" y="411" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0003" x="5" y="479" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0004" x="5" y="547" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0005" x="5" y="615" width="654" height="63" frameX="0" frameY="-24" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0006" x="5" y="121" width="654" height="106" frameX="0" frameY="0" frameWidth="654" frameHeight="115"/>
-	<SubTexture name="lines0007" x="5" y="232" width="654" height="106" frameX="0" frameY="0" frameWidth="654" frameHeight="115"/>
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="lines0000" x="0" y="0" width="493" height="93" frameX="-81" frameY="-18" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0001" x="0" y="93" width="443" height="44" frameX="-104" frameY="-39" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0002" x="443" y="93" width="413" height="44" frameX="-119" frameY="-39" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0003" x="493" y="0" width="608" height="44" frameX="-21" frameY="-39" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0004" x="200" y="137" width="286" height="44" frameX="-183" frameY="-39" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0005" x="493" y="44" width="473" height="44" frameX="-90" frameY="-39" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0006" x="0" y="215" width="111" height="78" frameX="-273" frameY="-26" frameWidth="654" frameHeight="115"/>
+	<SubTexture name="lines0007" x="0" y="137" width="200" height="78" frameX="-227" frameY="-26" frameWidth="654" frameHeight="115"/>
 </TextureAtlas>

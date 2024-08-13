@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="promobg2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bg depression0000" x="0" y="2580" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0001" x="2177" y="1290" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0002" x="0" y="0" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0003" x="2177" y="0" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0004" x="4354" y="1290" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0005" x="0" y="1290" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0006" x="2177" y="2580" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+	<SubTexture name="bg depression0007" x="4354" y="0" width="2177" height="1290" frameX="2" frameY="2" frameWidth="2173" frameHeight="1287"/>
+</TextureAtlas>
