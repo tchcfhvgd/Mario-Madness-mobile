@@ -1,53 +1,53 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="MX_v2_Assets_guaju.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="MXWahoo0000" x="0" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0001" x="1580" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0002" x="3160" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0003" x="3160" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0004" x="4740" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0005" x="4740" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0006" x="6320" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0007" x="6320" y="0" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0008" x="0" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0009" x="0" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0010" x="1580" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0011" x="1580" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0012" x="3160" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0013" x="3160" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0014" x="4740" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0015" x="4740" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0016" x="6320" y="2136" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0017" x="0" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0018" x="0" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0019" x="1580" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0020" x="1580" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0021" x="3160" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0022" x="3160" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0023" x="3160" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0024" x="4740" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0025" x="4740" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0026" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0027" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0028" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0029" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0030" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0031" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0032" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0033" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0034" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0035" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0036" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0037" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0038" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0039" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0040" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0041" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0042" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0043" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0044" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0045" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0046" x="6320" y="4272" width="1570" height="2126"/>
-	<SubTexture name="MXWahoo0047" x="6320" y="4272" width="1570" height="2126"/>
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_v2_Assets_wahoo.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="MXWahoo0000" x="4125" y="2108" width="1154" height="902" frameX="-210" frameY="-1183" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0001" x="5405" y="2966" width="1180" height="894" frameX="-205" frameY="-1191" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0002" x="5405" y="2078" width="1236" height="888" frameX="-184" frameY="-1197" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0003" x="5405" y="2078" width="1236" height="888" frameX="-184" frameY="-1197" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0004" x="4323" y="4179" width="1345" height="898" frameX="-175" frameY="-1187" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0005" x="4323" y="4179" width="1345" height="898" frameX="-175" frameY="-1187" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0006" x="2905" y="4179" width="1418" height="907" frameX="-121" frameY="-1178" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0007" x="2905" y="4179" width="1418" height="907" frameX="-121" frameY="-1178" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0008" x="1470" y="4179" width="1435" height="1078" frameX="-118" frameY="-1050" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0009" x="1470" y="4179" width="1435" height="1078" frameX="-118" frameY="-1050" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0010" x="0" y="4179" width="1470" height="1188" frameX="-102" frameY="-910" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0011" x="0" y="4179" width="1470" height="1188" frameX="-102" frameY="-910" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0012" x="1384" y="0" width="1443" height="1956" frameX="-68" frameY="-152" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0013" x="1384" y="0" width="1443" height="1956" frameX="-68" frameY="-152" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0014" x="0" y="0" width="1384" height="2068" frameX="-11" frameY="-41" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0015" x="0" y="0" width="1384" height="2068" frameX="-11" frameY="-41" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0016" x="1384" y="1956" width="1315" height="2105" frameX="-7" frameY="-4" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0017" x="0" y="2068" width="1342" height="2111" frameX="2" frameY="2" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0018" x="0" y="2068" width="1342" height="2111" frameX="2" frameY="2" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0019" x="4125" y="0" width="1280" height="2108" frameX="-42" frameY="-1" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0020" x="4125" y="0" width="1280" height="2108" frameX="-42" frameY="-1" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0021" x="2827" y="0" width="1298" height="2096" frameX="-24" frameY="-13" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0022" x="2827" y="0" width="1298" height="2096" frameX="-24" frameY="-13" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0023" x="2827" y="0" width="1298" height="2096" frameX="-24" frameY="-13" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0024" x="2827" y="2096" width="1279" height="2082" frameX="-43" frameY="-27" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0025" x="2827" y="2096" width="1279" height="2082" frameX="-43" frameY="-27" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0026" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0027" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0028" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0029" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0030" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0031" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0032" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0033" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0034" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0035" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0036" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0037" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0038" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0039" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0040" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0041" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0042" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0043" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0044" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0045" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0046" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
+	<SubTexture name="MXWahoo0047" x="5405" y="0" width="1279" height="2078" frameX="-43" frameY="-31" frameWidth="1570" frameHeight="2126"/>
 </TextureAtlas>

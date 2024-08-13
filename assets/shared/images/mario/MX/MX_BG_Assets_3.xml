@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_BG_Assets_3.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Cloud0000" x="0" y="0" width="724" height="873" frameX="-2" frameY="2" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0001" x="724" y="0" width="724" height="860" frameX="2" frameY="-1" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0002" x="724" y="0" width="724" height="860" frameX="2" frameY="-1" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0003" x="1448" y="0" width="721" height="812" frameX="-3" frameY="-9" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0004" x="1448" y="0" width="721" height="812" frameX="-3" frameY="-9" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0005" x="0" y="873" width="723" height="793" frameX="-9" frameY="-25" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0006" x="0" y="873" width="723" height="793" frameX="-9" frameY="-25" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0007" x="0" y="873" width="723" height="793" frameX="-9" frameY="-25" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0008" x="723" y="873" width="725" height="789" frameX="-10" frameY="-26" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0009" x="723" y="873" width="725" height="789" frameX="-10" frameY="-26" frameWidth="733" frameHeight="870"/>
+	<SubTexture name="Cloud0010" x="723" y="873" width="725" height="789" frameX="-10" frameY="-26" frameWidth="733" frameHeight="870"/>
+</TextureAtlas>

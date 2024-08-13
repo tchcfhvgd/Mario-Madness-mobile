@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX_v2_Assets_gfdiesepico2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="GFDieLoop0000" x="0" y="0" width="1946" height="200" frameX="2" frameY="2" frameWidth="1942" frameHeight="197"/>
+</TextureAtlas>
