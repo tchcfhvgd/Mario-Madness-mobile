@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Mario_main_menu_assets_freeplay.png">
-	<!-- Created with Adobe Animate version 19.2.1.408 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="freeplay basic0000" x="0" y="0" width="822" height="239"/>
-	<SubTexture name="freeplay basic0001" x="0" y="0" width="822" height="239"/>
-	<SubTexture name="freeplay basic0002" x="0" y="0" width="822" height="239"/>
-	<SubTexture name="freeplay white0000" x="0" y="263" width="822" height="239"/>
-	<SubTexture name="freeplay white0001" x="0" y="263" width="822" height="239"/>
-	<SubTexture name="freeplay white0002" x="0" y="263" width="822" height="239"/>
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario_pause_Restart.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="freeplay basic0000" x="0" y="0" width="813" height="230" frameX="-2" frameY="-2" frameWidth="822" frameHeight="239"/>
+	<SubTexture name="freeplay basic0001" x="0" y="0" width="813" height="230" frameX="-2" frameY="-2" frameWidth="822" frameHeight="239"/>
+	<SubTexture name="freeplay basic0002" x="0" y="0" width="813" height="230" frameX="-2" frameY="-2" frameWidth="822" frameHeight="239"/>
+	<SubTexture name="freeplay white0000" x="0" y="230" width="813" height="230" frameX="-2" frameY="-2" frameWidth="822" frameHeight="239"/>
+	<SubTexture name="freeplay white0001" x="0" y="230" width="813" height="230" frameX="-2" frameY="-2" frameWidth="822" frameHeight="239"/>
+	<SubTexture name="freeplay white0002" x="0" y="230" width="813" height="230" frameX="-2" frameY="-2" frameWidth="822" frameHeight="239"/>
 </TextureAtlas>
