@@ -2,24 +2,24 @@
 <TextureAtlas imagePath="wea_mala_ctm.png">
 	<!-- Created using the Spritesheet and XML generator -->
 	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
-	<SubTexture name="fondo instancia 0000" x="937" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0001" x="937" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0002" x="0" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0003" x="937" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0004" x="0" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0005" x="937" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0006" x="1874" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0007" x="0" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0008" x="2811" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0009" x="2811" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0010" x="1874" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0011" x="1874" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0012" x="2811" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0013" x="0" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0014" x="2811" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0015" x="937" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0016" x="1874" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0017" x="2811" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0018" x="1874" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
-	<SubTexture name="fondo instancia 0019" x="0" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10000" x="937" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10001" x="937" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10002" x="0" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10003" x="937" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10004" x="0" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10005" x="937" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10006" x="1874" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10007" x="0" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10008" x="2811" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10009" x="2811" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10010" x="1874" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10011" x="1874" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10012" x="2811" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10013" x="0" y="550" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10014" x="2811" y="1650" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10015" x="937" y="0" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10016" x="1874" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10017" x="2811" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10018" x="1874" y="1100" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
+	<SubTexture name="fondo instancia 10019" x="0" y="2200" width="937" height="550" frameX="2" frameY="-28" frameWidth="936" frameHeight="579"/>
 </TextureAtlas>
