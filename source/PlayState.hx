@@ -448,6 +448,7 @@ class PlayState extends MusicBeatState
 	var introL:BGSprite;
 	var introLText:BGSprite;
 	var luigiCut:BGSprite;
+	var luigiCut2:BGSprite;
 
 	var wahooText:BGSprite;
 	var shadowbg:BGSprite;
@@ -5135,6 +5136,12 @@ class PlayState extends MusicBeatState
 				luigiCut.cameras = [camEst];
 				luigiCut.alpha = 0.0000001;
 				add(luigiCut);
+				
+				luigiCut2 = new BGSprite('mario/IHY/cutscene/OGN_Cutscene2', 300, 0, ['blood'], false);
+				luigiCut2.animation.addByPrefix('end', 'blood', 5, false);
+				luigiCut2.cameras = [camEst];
+				luigiCut2.alpha = 0.0000001;
+				add(luigiCut2);
 
 				add(startbf);
 				}else{
@@ -5795,7 +5802,6 @@ class PlayState extends MusicBeatState
 			case 'wetworld':
 				luigidies = new VideoSprite(300, 100);
 				luigidies.cameras = [camOther];
-				luigidies.visible = false;
 
 				luigidies.alpha = 0;
 
@@ -15841,18 +15847,18 @@ class PlayState extends MusicBeatState
 					camEst.shake(0.01, 0.2); 
 				}
 				if(curStep == 1380){
-				luigiCut.animation.play('end');
-				luigiCut.alpha = 1;
-				luigiCut.x -= 100;
-				luigiCut.y += 100;
+				luigiCut2.animation.play('end');
+				luigiCut2.alpha = 1;
+				luigiCut2.x -= 100;
+				luigiCut2.y += 100;
 				blackBarThingie.alpha = 1;
 				camGame.alpha = 0;
 				camHUD.alpha = 0;
 				camEst.shake(0.03, 0.4); 
 				
-				eventTweens.push(FlxTween.tween(luigiCut, {y: luigiCut.y - 100}, 4, {ease: FlxEase.cubeIn}));
-				eventTweens.push(FlxTween.tween(luigiCut.scale, {x: 0.1, y: 0.1}, 4, {ease: FlxEase.cubeIn}));
-				eventTweens.push(FlxTween.tween(luigiCut, {alpha: 0}, 1, {startDelay: 2}));
+				eventTweens.push(FlxTween.tween(luigiCut2, {y: luigiCut2.y - 100}, 4, {ease: FlxEase.cubeIn}));
+				eventTweens.push(FlxTween.tween(luigiCut2.scale, {x: 0.1, y: 0.1}, 4, {ease: FlxEase.cubeIn}));
+				eventTweens.push(FlxTween.tween(luigiCut2, {alpha: 0}, 1, {startDelay: 2}));
 				}
 
 				if(curStep >= 1384){
@@ -15879,8 +15885,8 @@ class PlayState extends MusicBeatState
 				switch (curBeat)
 				{
 			case 228:
-				luigidies.visible = true;
 				luigidies.playVideo(Paths.video("luigifuckingdies"));
+				luigidies.alpha = 1;
 				FlxTween.tween(luigidies, {alpha: 0.6}, 2, {ease: FlxEase.quadInOut});
 				case 248:
 				FlxTween.tween(luigidies, {alpha: 0}, 2.2, {ease: FlxEase.quadInOut});
